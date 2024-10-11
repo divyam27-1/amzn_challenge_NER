@@ -1,8 +1,8 @@
 Amazon ML challenge 2024 project made with  
 
-  Divyam Tiwari
-  Yuv Raj
-  Minchala Deny Kumar Reddy
+  Divyam Tiwari,
+  Yuv Raj,
+  Minchala Deny Kumar Reddy,
   Susank Makhatala
 
 Includes:  
