@@ -5,7 +5,7 @@ chunk_files = [f"chunk_{i}.csv" for i in range(1, 31)]
 
 dataframes = []
 for file in chunk_files:
-    if os.path.exists(file):  # Check if the file exists
+    if os.path.exists(file):
         df = pd.read_csv(file)
         dataframes.append(df)
     else:
